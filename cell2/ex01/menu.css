@@ -1,0 +1,34 @@
+body {
+    background-image: linear-gradient(90deg, #D66D75, #E29587);
+    font-family: monospace;
+    text-align: center;
+}
+
+input {
+    display: none;
+}
+
+img {
+    width: 40px;
+}
+
+ul {
+    display: none;
+    list-style-type: none;
+    align-items: center;
+}
+
+#checkbox:checked ~ ul {
+    display: block;
+}
+
+li {
+    font-size: x-large;
+}
+
+a {
+    color: black;
+}
+a:hover {
+    color: paleturquoise;
+}

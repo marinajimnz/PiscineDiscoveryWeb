@@ -1,0 +1,38 @@
+body {
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+section {
+    position: relative;
+    height: 999px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    width: 700px;
+}
+
+#first {
+    background-image: url("https://i.pinimg.com/originals/43/10/1e/43101e0f8ce036f57ad751712d6e7d58.jpg");
+}
+
+.no-parallax {
+    background-color: black;
+}
+
+#second {
+    background-image: url("https://images.wallpapersden.com/image/download/a-day-with-mountains_bWhtbmeUmZqaraWkpJRmbmdlrWZlbWU.jpg");
+}
+
+.parallax {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
