@@ -1,0 +1,3 @@
+En este ejercicio crearemos una página web utilizando el parallax scrolling (efecto de paralaje o parallax).
+Para realizar este proyecto tienes que crear una página web. La página tiene que tener al menos dos imágenes. Cuando se ejecute la página, se debe mostrar una imagen en el fondo con un mensaje de tamaño pequeño en el centro de la página. Cuando se avanza hacia abajo en la página, se tiene que ver un bloque negro con el mensaje que tú elijas.
+Finalmente, si haces scroll hasta el final de la página, se debería ver la segunda imagen con otro mensaje también en el centro.
