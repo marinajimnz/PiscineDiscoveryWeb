@@ -1,0 +1,1 @@
+Crear un archivo llamado z que devuelve “Z”, seguido de una nueva línea, cada vez que el comando cat se utiliza en él.
