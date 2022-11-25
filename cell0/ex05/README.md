@@ -1,0 +1,1 @@
+Escribe un programa build.sh que cree carpetas utilizando los argumentos que se le proporcionen añadiéndoles ex al principio del nombre.
