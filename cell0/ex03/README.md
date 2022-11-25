@@ -1,0 +1,1 @@
+Escriba una línea de comando que cuente y muestre el número de archivos y directorios regulares en el directorio actual.
