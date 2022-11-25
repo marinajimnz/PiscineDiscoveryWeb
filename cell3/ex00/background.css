@@ -1,0 +1,17 @@
+body{
+    background-color: paleturquoise;
+    text-align: center;
+}
+
+input {
+    color: white;
+    background: transparent;
+    border: 2px solid white;
+    border-radius: 6px;
+    margin-top: 10px;
+}
+
+input:hover {
+    background-color: white;
+    color: black;
+}
