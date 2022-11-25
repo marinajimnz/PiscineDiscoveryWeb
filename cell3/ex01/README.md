@@ -1,0 +1,4 @@
+Crear en HTML/CSS un div 200px por 200px con un color de fondo rojo. Los bordes serán redondeados para que la forma sea un círculo perfecto y no un cuadrado. Ese div será entonces nuestro globo.
+Cuando se haga click en el globo, su tamaño crecerá en 10px, manteniendo su forma redonda. Con cada click su color cambiará en el siguiente orden: de rojo a verde, luego azul y de vuelta al rojo.
+Normalmente, este tipo de globo es bastante resistente, pero si su tamaño es mayor que 420px explotará y volverá a su tamaño original.
+Pequeño detalle adicional, cuando el ratón está en el globo y lo abandona, el tamaño del globo se reduce en 5px (el tamaño del globo no puede ser inferior a 200px) y su color cambia en el orden inverso al mencionado anteriormente.
