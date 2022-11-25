@@ -1,0 +1,1 @@
+En un archivo midLS, coloque la línea de comando que listará todos los archivos y directorios en su directorio actual (excepto los archivos ocultos o cualquier archivo que comience por un punto - sí, eso incluye los puntos dobles), separados por una coma.
